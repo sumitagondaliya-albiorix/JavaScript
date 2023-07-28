@@ -104,3 +104,14 @@ Writing into the browser console, using console.log().
 // 4. Only use let if you can't use const
 
 // 5. Only use var if you MUST support old browsers.
+
+
+//========let==============
+// Variables defined with let cannot be Redeclared
+
+// Variables defined with let must be Declared before use
+
+// Variables defined with let have Block Scope
+
+// =================var========================
+// 
